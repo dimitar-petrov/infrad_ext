@@ -1,0 +1,12 @@
+* infrad_ext
+
+
+[[https://travis-ci.org/dimitar-petrov/infrad-ext][https://travis-ci.org/dimitar-petrov/infrad_ext.svg?branch=master]]
+
+
+License
+-------
+
+This code is licensed under the [[https://github.com/dimitar-petrov/infrad-ext/blob/master/LICENSE][GPL 3.0 License]]
+
+
